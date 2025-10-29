@@ -3,7 +3,7 @@ My first repository
 # My favourite Chinese Drama
 
 ## Ancient Love Poetry
-** Genre:** Fantasy, Wuxia, Fictional
+**Genre:** Fantasy, Wuxia, Fictional
 
 > Amid their divine duties, the story explores the profound love and struggles
 
@@ -14,7 +14,7 @@ My first repository
 ---
 
 ## "Imperial Coroner"
-** Genre:** Xiaxia, Mystery
+**Genre:** Xiaxia, Mystery
 
 > A village girl doing forensic despite of patriarchal regime
 
